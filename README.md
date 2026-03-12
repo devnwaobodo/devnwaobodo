@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Francis
 
-<!--
-**devnwaobodo/devnwaobodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer focused on building real-world web applications.
 
-Here are some ideas to get you started:
+## Tech I'm Learning
+- HTML
+- CSS
+- JavaScript
+- React
+- ASP.NET Core
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building full stack applications and improving JavaScript fundamentals.
+
+## Projects
+- Appointment Scheduling System
+- To-Do List App
+- Weather App
+
+## Goal
+Become a professional full stack developer and work remotely with international teams.
